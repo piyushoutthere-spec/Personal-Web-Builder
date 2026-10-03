@@ -1,0 +1,18 @@
+.mercedes-box img{
+    display:block;
+    margin:0 auto;
+    border:3px solid greenyellow;
+}
+.mercedes-box{
+    width:1200px;
+    height:450px;
+    padding:20px;
+    color:greenyellow;
+    text-align:center;
+}
+footer{
+    color:hotpink;
+    padding:10px;
+    border-top:3px solid red;
+    font-size:X-large;
+}
